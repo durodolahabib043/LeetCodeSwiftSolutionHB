@@ -9,7 +9,7 @@ import Foundation
 
 class RemoveInPlaceDuplicate {
 
-
+//https://leetcode.com/problems/remove-duplicates-from-sorted-array/
     static func removeDuplicates( array: inout [Int]) -> Int {
         guard array.count > 0 else {
             return 0
