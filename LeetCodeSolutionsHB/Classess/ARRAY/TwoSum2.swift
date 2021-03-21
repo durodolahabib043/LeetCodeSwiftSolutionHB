@@ -8,7 +8,7 @@
 import Foundation
 
 class TwoSum2 {
-
+//https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
     static func twoSum(_ numbers: [Int], _ target: Int) -> [Int] {
 
         var dict : [Int : Int] = [:]

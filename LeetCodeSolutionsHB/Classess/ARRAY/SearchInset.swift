@@ -8,7 +8,7 @@
 import Foundation
 
 class SearchInset {
-
+// o(log(n)) //https://leetcode.com/problems/search-insert-position/
     static func searchInsert(_ nums: [Int], _ target: Int) -> Int {
             var left = 0
             var end = nums.count - 1

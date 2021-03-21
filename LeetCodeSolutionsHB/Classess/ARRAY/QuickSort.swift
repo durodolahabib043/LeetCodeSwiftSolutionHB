@@ -9,7 +9,7 @@ import Foundation
 
 
 class QuickSort {
-
+///divide and conquer
    static func mergeSort(_ array: [Int]) -> [Int] {
 
     guard array.count > 1 else { return array }

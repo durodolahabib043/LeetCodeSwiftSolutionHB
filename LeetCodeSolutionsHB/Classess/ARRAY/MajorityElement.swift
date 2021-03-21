@@ -9,7 +9,7 @@ import Foundation
 
 class MajorityElement {
 
-
+//https://leetcode.com/problems/majority-element/
     static func majorityElement(_ nums: [Int]) -> Int {
         var dict : [Int : Int] = [:]
         for (_, value) in nums.enumerated() {

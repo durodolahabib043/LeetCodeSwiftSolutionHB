@@ -9,6 +9,7 @@ import Foundation
 
 class MergeSortedArray {
 
+    //https://leetcode.com/problems/merge-sorted-array/
     static  func mergeNNNJNJ(_ nums1: inout [Int], _ m: Int, _ nums2: [Int], _ n: Int)-> [Int] {
         var _m = m - 1
         var _n = n - 1
