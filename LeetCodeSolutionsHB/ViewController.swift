@@ -13,6 +13,32 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         view.backgroundColor = .red
+
+        // EASY
+
+       // print(ValidMountain.validMountainArray([0,3,2,1]))
+        print(ThreeConsecutiveOlds.threeConsecutiveOdds([2,6,4,1,8,13,9,2]))
+
+
+  //MEDIUM
+      //  print(ThreeSums.threeSum([-1,0,1,2,-1,-4]))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //////<<<<<<<<<<<<<<<<<<<<<<<<<<<===============================>>>>>>>>>>>>>>>>>>>>>
         // TwoSums.checkTwoSums()
 
 //         var myNum = [0,0,1,1,2,2,3,3,4]
@@ -122,7 +148,11 @@ class ViewController: UIViewController {
 
       //  print(AverageSalary.average([1000,2000,3000]))
 
-        print(ArithemeticProgression.canMakeArithmeticProgression([1,2,4]))
+      //  print(ArithemeticProgression.canMakeArithmeticProgression([1,2,4]))
+
+       // print(PlantFlowes.canPlaceFlowers(flowerbed: [1,0,0,0,0,1], n: 2))
+
+        //print(ArrayConcatenation.canFormArray([49,18,16], [[16,18,49]]))
 
 
 

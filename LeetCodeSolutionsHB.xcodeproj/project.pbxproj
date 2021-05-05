@@ -32,6 +32,9 @@
 		8261F0F925B8A93B00A6AF85 /* QuickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8261F0F825B8A93B00A6AF85 /* QuickSort.swift */; };
 		8261F0FC25B8BD0500A6AF85 /* MergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8261F0FB25B8BD0500A6AF85 /* MergeSortedArray.swift */; };
 		8261F0FF25BB0CFD00A6AF85 /* PascalTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8261F0FE25BB0CFD00A6AF85 /* PascalTriangle.swift */; };
+		826CEA2C2614DB24004FFE25 /* BellMediaTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 826CEA2B2614DB24004FFE25 /* BellMediaTask.swift */; };
+		827167C82608C75100E9675A /* ArrayConcatenation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 827167C72608C75100E9675A /* ArrayConcatenation.swift */; };
+		8278D1A02624970C00FAB4AC /* ValidMountain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8278D19F2624970C00FAB4AC /* ValidMountain.swift */; };
 		827EDC1525B5F75200F9337A /* RemoveElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 827EDC1425B5F75200F9337A /* RemoveElement.swift */; };
 		827EDC1825B6161200F9337A /* SearchInset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 827EDC1725B6161200F9337A /* SearchInset.swift */; };
 		827EDC1C25B62FEC00F9337A /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 827EDC1B25B62FEC00F9337A /* PlusOne.swift */; };
@@ -43,7 +46,9 @@
 		8289383D25A3B5E60021D755 /* RemoveInPlaceDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8289383C25A3B5E60021D755 /* RemoveInPlaceDuplicate.swift */; };
 		8290251425C0360F006627EE /* Sum2Zero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8290251325C0360F006627EE /* Sum2Zero.swift */; };
 		8290251725C04FA9006627EE /* CommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8290251625C04FA9006627EE /* CommonPrefix.swift */; };
+		82B2745526305B00005FCEFF /* ThreeConsecutiveOlds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B2745426305B00005FCEFF /* ThreeConsecutiveOlds.swift */; };
 		82CB5F2F25DB23A5002ECEBB /* Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CB5F2E25DB23A5002ECEBB /* Anagrams.swift */; };
+		82EB4898261086EA00AD543D /* 3Sums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82EB4897261086EA00AD543D /* 3Sums.swift */; };
 		82ECD08A25FFC7AE003E3ABD /* PlantFlowes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82ECD08925FFC7AE003E3ABD /* PlantFlowes.swift */; };
 		82FF855625E0A8070096CB4A /* StringRevision.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF855525E0A8070096CB4A /* StringRevision.swift */; };
 		82FF855825E2B1AD0096CB4A /* FirstUniqueCharater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF855725E2B1AD0096CB4A /* FirstUniqueCharater.swift */; };
@@ -89,6 +94,9 @@
 		8261F0F825B8A93B00A6AF85 /* QuickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickSort.swift; sourceTree = "<group>"; };
 		8261F0FB25B8BD0500A6AF85 /* MergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArray.swift; sourceTree = "<group>"; };
 		8261F0FE25BB0CFD00A6AF85 /* PascalTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalTriangle.swift; sourceTree = "<group>"; };
+		826CEA2B2614DB24004FFE25 /* BellMediaTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BellMediaTask.swift; sourceTree = "<group>"; };
+		827167C72608C75100E9675A /* ArrayConcatenation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayConcatenation.swift; sourceTree = "<group>"; };
+		8278D19F2624970C00FAB4AC /* ValidMountain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountain.swift; sourceTree = "<group>"; };
 		827EDC1425B5F75200F9337A /* RemoveElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveElement.swift; sourceTree = "<group>"; };
 		827EDC1725B6161200F9337A /* SearchInset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInset.swift; sourceTree = "<group>"; };
 		827EDC1B25B62FEC00F9337A /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
@@ -102,7 +110,9 @@
 		8289383C25A3B5E60021D755 /* RemoveInPlaceDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveInPlaceDuplicate.swift; sourceTree = "<group>"; };
 		8290251325C0360F006627EE /* Sum2Zero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sum2Zero.swift; sourceTree = "<group>"; };
 		8290251625C04FA9006627EE /* CommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonPrefix.swift; sourceTree = "<group>"; };
+		82B2745426305B00005FCEFF /* ThreeConsecutiveOlds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeConsecutiveOlds.swift; sourceTree = "<group>"; };
 		82CB5F2E25DB23A5002ECEBB /* Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anagrams.swift; sourceTree = "<group>"; };
+		82EB4897261086EA00AD543D /* 3Sums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3Sums.swift; sourceTree = "<group>"; };
 		82ECD08925FFC7AE003E3ABD /* PlantFlowes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantFlowes.swift; sourceTree = "<group>"; };
 		82FF855525E0A8070096CB4A /* StringRevision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringRevision.swift; sourceTree = "<group>"; };
 		82FF855725E2B1AD0096CB4A /* FirstUniqueCharater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUniqueCharater.swift; sourceTree = "<group>"; };
@@ -165,6 +175,9 @@
 				820078CB25F7122E00DE3603 /* AverageSalary.swift */,
 				820078CD25F7ABDD00DE3603 /* ArithemeticProgression.swift */,
 				82ECD08925FFC7AE003E3ABD /* PlantFlowes.swift */,
+				827167C72608C75100E9675A /* ArrayConcatenation.swift */,
+				8278D19F2624970C00FAB4AC /* ValidMountain.swift */,
+				82B2745426305B00005FCEFF /* ThreeConsecutiveOlds.swift */,
 			);
 			path = ARRAY;
 			sourceTree = "<group>";
@@ -182,6 +195,14 @@
 			children = (
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		826CEA2A2614DB0E004FFE25 /* BellMedia */ = {
+			isa = PBXGroup;
+			children = (
+				826CEA2B2614DB24004FFE25 /* BellMediaTask.swift */,
+			);
+			path = BellMedia;
 			sourceTree = "<group>";
 		};
 		8289381525A35FA80021D755 = {
@@ -217,12 +238,22 @@
 		8289383B25A3B5C40021D755 /* Classess */ = {
 			isa = PBXGroup;
 			children = (
+				826CEA2A2614DB0E004FFE25 /* BellMedia */,
+				82EB4896261086D400AD543D /* Medium */,
 				825034FF25C4A5F5001417FC /* Generics */,
 				8217427725BF2BC20079B63B /* ARRAY */,
 				8217427625BF2BBA0079B63B /* STRING */,
 				82CB5F2E25DB23A5002ECEBB /* Anagrams.swift */,
 			);
 			path = Classess;
+			sourceTree = "<group>";
+		};
+		82EB4896261086D400AD543D /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				82EB4897261086EA00AD543D /* 3Sums.swift */,
+			);
+			path = Medium;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -295,6 +326,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				827167C82608C75100E9675A /* ArrayConcatenation.swift in Sources */,
 				822D114025F02C88002822E6 /* AddArrrayForm.swift in Sources */,
 				820078CE25F7ABDD00DE3603 /* ArithemeticProgression.swift in Sources */,
 				8253E68525C9A8E700580505 /* SellStock.swift in Sources */,
@@ -305,11 +337,15 @@
 				8289383925A361E20021D755 /* TwoSums.swift in Sources */,
 				8250350125C4A605001417FC /* Generics.swift in Sources */,
 				8253E68825CB23D900580505 /* TwoSum2.swift in Sources */,
+				82B2745526305B00005FCEFF /* ThreeConsecutiveOlds.swift in Sources */,
 				82ECD08A25FFC7AE003E3ABD /* PlantFlowes.swift in Sources */,
 				8217427925BF2C020079B63B /* Roman2Integer.swift in Sources */,
 				822F20E225ED2B9900AFDFB5 /* AddStrings.swift in Sources */,
+				8278D1A02624970C00FAB4AC /* ValidMountain.swift in Sources */,
 				8250350825C70A5A001417FC /* ReverseString.swift in Sources */,
 				8253E68B25CB284B00580505 /* MajorityElement.swift in Sources */,
+				826CEA2C2614DB24004FFE25 /* BellMediaTask.swift in Sources */,
+				82EB4898261086EA00AD543D /* 3Sums.swift in Sources */,
 				820078CC25F7122E00DE3603 /* AverageSalary.swift in Sources */,
 				825171C725C30A15000DF306 /* AddBinary.swift in Sources */,
 				8290251425C0360F006627EE /* Sum2Zero.swift in Sources */,
